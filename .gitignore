@@ -1,0 +1,23 @@
+# .GCC/ is committed by default — it's team context, not AI-secret.
+# Uncomment the next line only if you want it local-only.
+# .GCC/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies (uncomment as needed)
+# node_modules/
+# __pycache__/
+# .venv/
